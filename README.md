@@ -1,3 +1,6 @@
+**Deployment link for Problem 1: https://syngentaappass-2hrkfz4wghess4st9fytx4.streamlit.app/**
+**Deployment link for Problem 2: https://syngentaappass-pfizpsq82babf9ae9sfyar.streamlit.app/**
+**Deployment link for Problem 3: https://syngentaappass-mcgg5vvyggvrcfjuvxvx9m.streamlit.app/**
 **Problem Statement 1:Create a Streamlit Application for Visualizing CSV Data**
 Build a Streamlit application that allows users to upload a CSV file and visualize the data using basic charts like line charts, bar charts, and histograms.
 Create a github repository, push your code, experiment with using multiple branches, and then merge your changes into the main branch.
